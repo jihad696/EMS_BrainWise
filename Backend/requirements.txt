@@ -1,0 +1,15 @@
+Django>=4.2,<5.0
+djangorestframework>=3.14
+
+# PostgreSQL
+psycopg2-binary>=2.9
+
+# Environment variables
+python-dotenv>=1.0
+
+# Filtering & auth
+django-filter>=23.5
+djangorestframework-simplejwt>=5.3
+
+# CORS (for frontend integration)
+django-cors-headers>=4.3
